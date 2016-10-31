@@ -11,3 +11,4 @@
 * Learn Sass
 * Set for Cookies
 * Practice coding sessions
+* I love shoes
