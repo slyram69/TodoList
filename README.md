@@ -8,3 +8,6 @@
 * Learn about React
 * Go for a run
 * Learn about controllers
+* Learn Sass
+* Set for Cookies
+* Practice coding sessions
