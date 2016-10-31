@@ -12,3 +12,4 @@
 * Set for Cookies
 * Practice coding sessions
 * I love shoes
+* YOU ARE PART OF THE JEDI CLUB!! BE PROUD!!!!
